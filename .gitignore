@@ -2,5 +2,9 @@
 *.prof
 *.test
 *.out
+*.iml
+*.idea
+gomqtt-benchmark/gomqtt-benchmark
+gomqtt-broker/gomqtt-broker
 .vagrant/
 profile/
