@@ -26,9 +26,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/gomqtt/broker"
 	"github.com/gomqtt/packet"
 	"github.com/gomqtt/transport"
+	"github.com/masatomizuta/broker"
 )
 
 var url = flag.String("url", "tcp://0.0.0.0:1883", "broker url")
